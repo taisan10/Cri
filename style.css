@@ -1,0 +1,55 @@
+body {
+  /* min-width: 380px; */
+  max-width: 98vw;
+}
+
+.text-bg {
+  background-color: #EBCF74;
+}
+
+.activation {
+  color: black;
+  background-color: rgb(222 202 141);
+}
+
+.bg-card {
+  color: black;
+  background-color: #EBCF74;
+}
+
+.text-color {
+  color: rgb(222 202 141);
+}
+
+.btn-full-color {
+  color: black;
+  background-color: rgb(222 202 141);
+}
+
+.btn-full-color:hover {
+  color: black;
+  background-color: rgb(219, 176, 50);
+}
+
+.btn-outline-warning:hover {
+  background-color: rgb(222 202 141)
+}
+
+.btn-outline-warning {
+  border-color: rgb(222 202 141);
+  color: rgb(222 202 141);
+}
+
+.navbar-toggler {
+  border-color: rgb(222 202 141);
+  /* uses Bootstrap's yellow */
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23ffc107' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.text-justify {
+  text-align: justify;
+}
+
